@@ -1,4 +1,4 @@
-package com.sportyshoes.sportyshoes;
+package com.sportyshoes.sportyshoes.seleniumtests;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -2,12 +2,12 @@
 <suite name="SportyShoesTestSuite">
     <test name="SportyShoesTests">
         <classes>
-            <class name="com.sportyshoes.sportyshoes.LoginPageTest"/>
-            <class name="com.sportyshoes.sportyshoes.HomePageTest"/>
-            <class name="com.sportyshoes.sportyshoes.CartPageTest"/>
-            <class name="com.sportyshoes.sportyshoes.OrderPageTest"/>
-            <class name="com.sportyshoes.sportyshoes.ProfilePageTest"/>
-            <class name="com.sportyshoes.sportyshoes.LogoutPageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.LoginPageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.HomePageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.CartPageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.OrderPageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.ProfilePageTest"/>
+            <class name="com.sportyshoes.sportyshoes.seleniumtests.LogoutPageTest"/>
         </classes>
     </test>
 </suite>
